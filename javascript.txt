@@ -1,0 +1,9 @@
+I would like to tell you some interesting facts about javascript:
+1.Its everywhere.
+2.Its flexible.
+3.Its easy to learn. 
+4.Its community
+5.Its in demand. 
+If you want to be a programmer, you need to learn JavaScript. Because it’s so widely used,
+you will be hard-pressed to find a job listing for a developer that does not require it.
+It’s the de facto language of the web, other than HTML/CSS of course.

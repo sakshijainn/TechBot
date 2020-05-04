@@ -1,0 +1,6 @@
+I would like to tell you some interesting facts about Java:
+1.Its the most commonly used programming language in the world.
+2.Its a good precursor to learning other programming languages (like C, C#, and C++).
+3.Its a mature language
+4.It prepares you for many open, well-paying developer jobs.
+5.You'll find lots of like-minded, passionate programmers.

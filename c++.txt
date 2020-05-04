@@ -1,0 +1,6 @@
+I would like to tell you some interesting facts about C++:
+1.C++ is Flexible
+2.C++ Excels at Delivering Performance
+3.C++ Takes Time to Learn, But Rewards Investment
+4.C++ Job Opportunities
+

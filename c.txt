@@ -1,0 +1,6 @@
+Why C to be your first programming language?
+1.Portability and Efficiency
+2.Memory Manipulation
+3.Deterministic Usage of Resources
+4.Code Size
+5.Fundamental Block of all Languages

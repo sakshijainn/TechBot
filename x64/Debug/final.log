@@ -1,0 +1,7 @@
+﻿  Chat.cpp
+c:\users\sakshi jain\source\repos\final\final\chat.cpp(237): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  final.cpp
+c:\users\sakshi jain\source\repos\final\final\final.cpp(288): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  stdafx.cpp
+c:\users\sakshi jain\source\repos\final\final\stdafx.cpp(2): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
